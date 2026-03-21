@@ -1,0 +1,27 @@
+# Secrets
+.Renviron
+.env
+
+# Backups
+*_backup*.R
+*_old*.R
+
+# Test files
+test_*.py
+
+# R session
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated reports
+html_reports/*.html
+word_reports/*.docx
+
+# Python
+__pycache__/
+*.pyc
